@@ -23,9 +23,8 @@ Python-Problem-Solving
 ├── Arrays
 ├── Strings
 ├── Sorting
-│
-├── README.md
-└── .gitignore
+
+
 ```
 
 ---
