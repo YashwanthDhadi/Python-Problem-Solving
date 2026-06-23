@@ -1,5 +1,5 @@
 def large(arr):
-    large = arr[0]
+    large = float("-inf")
     for i in arr:
         if i>large:
             large = i
