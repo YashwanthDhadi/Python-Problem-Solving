@@ -11,3 +11,6 @@ obj = Solution()
 nums = [12, 46, 24, 52, 20, 9]
 obj.selection_sort(nums)
 print(nums)
+
+#Time complexity : O(n**2)
+#space compexity : O(1)
