@@ -13,4 +13,4 @@ obj.selection_sort(nums)
 print(nums)
 
 #Time complexity : O(n**2)
-#space compexity : O(1)
+#space complexity : O(1)
