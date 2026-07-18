@@ -11,7 +11,6 @@ This repository is built through consistent practice of programming problems, wi
 * Code Optimization
 * Clean and Readable Implementations
 
----
 ## Key Concepts Practiced
 
 * Digit Extraction (`%10`, `//10`)
