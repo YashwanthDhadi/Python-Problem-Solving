@@ -18,72 +18,77 @@ This repository is built through consistent practice of programming problems, wi
 ```text
 Python-Problem-Solving
 │
-├── Numbers
-├── NumberSystems
-├── Arrays
-├── Strings
-├── Sorting
-
-
+├── Arrays          # array traversal, searching, rotation, frequency
+├── Number system    # base conversions (binary, octal, decimal)
+├── Numbers         # number theory & math problems
+├── Patterns        # star / number pattern printing
+├── Recursion       # recursion fundamentals
+├── searching       # linear & binary search
+├── sorting         # classic + recursive sorting algorithms
+└── strings         # string manipulation problems
 ```
 
 ---
 
 ## Topics Covered
 
-### Numbers
-
-* Prime Numbers
-* Prime Factors
-* Armstrong Numbers
-* Strong Numbers
-* Perfect Numbers
-* Abundant & Deficient Numbers
-* Harshad Numbers
-* Automorphic Numbers
-* Factorial
-* Fibonacci Series
-* GCD & LCM
-* Fraction Operations
-* Digital Root
-* Number Reversal
-* Digit Manipulation
-* Mathematical Series
-* Permutations & Combinations
-
-### Number Systems
-
-* Decimal to Binary
-* Binary to Decimal
-* Octal Conversions
-* Hexadecimal Conversions
-* Bit Manipulation Basics
-
 ### Arrays
 
-* Traversal
-* Searching
-* Sorting
-* Frequency Problems
-* Prefix/Suffix Techniques
-* Two-Pointer Problems
+* Traversal & Aggregation (sum, average, min, max, median)
+* Second Largest / Second Smallest
+* Duplicate Removal (sorted & unsorted)
+* Frequency Counting & Repeating Elements
+* Array Rotation (k elements, left/right)
+* Rank Replacement & Symmetric Pairs
+* Linear Search on Arrays
 
-### Strings
+### Number System
 
-* String Manipulation
-* Palindrome Problems
-* Frequency Counting
-* Pattern Matching
-* Character Operations
+* Decimal ↔ Binary Conversion
+* Decimal ↔ Octal Conversion
+* Binary ↔ Octal Conversion
+* Number-to-Words Conversion
+
+### Numbers
+
+* Prime Numbers, Prime Factors & Prime Ranges
+* Armstrong, Harshad, Automorphic & Strong Numbers
+* Perfect & Abundant Numbers
+* Factorial, Fibonacci, GCD & LCM
+* Fraction Addition, Permutations, Quadratic Equations
+* AP / GP Series, Digit Sum & Digit Reversal
+* Palindrome Numbers (single value & range)
+* Leap Year, Even/Odd, Sign Checks
+
+### Patterns
+
+* 22 star/number pattern-printing programs covering triangles, pyramids, diamonds, and hollow/mixed shapes
+
+### Recursion
+
+* Recursion fundamentals (base case & call stack intuition)
+* Printing sequences (1 to n, n to 1, name n times)
+* Sum of first n numbers, Factorial
+* Recursive array reversal, Palindrome check, Fibonacci
+
+### Searching
+
+* Linear Search
+* Binary Search
 
 ### Sorting
 
-* Bubble Sort
-* Selection Sort
-* Insertion Sort
-* Merge Sort
-* Quick Sort
-* Sorting-Based Problem Solving
+* Bubble Sort, Selection Sort, Insertion Sort
+* Merge Sort, Quick Sort
+* Recursive Bubble Sort & Recursive Insertion Sort
+
+### Strings
+
+* String Reversal, Word Reversal, Palindrome Check
+* Anagram Check, Character & Word Frequency Counting
+* Duplicate Removal, Common Character Extraction
+* Case Conversion, Vowel/Space Removal, Digit Extraction
+* ASCII Value Lookup, Substring Search, Bracket Removal
 
 ---
 
@@ -108,12 +113,12 @@ The objective is not only to solve problems but also to understand *why* a solut
 * Digit Extraction (`%10`, `//10`)
 * Factor Pair Optimization (`√n`)
 * Prime Number Techniques
-* Mathematical Formulas
-* Euclidean Algorithm
+* Euclidean Algorithm (GCD/LCM)
+* Two-Pointer Technique (reversal, palindrome checks)
+* Hashing / Frequency Maps
 * Recursion Fundamentals
 * Pattern Recognition
 * Complexity Analysis
-* Optimization Strategies
 
 ---
 
