@@ -12,6 +12,17 @@ This repository is built through consistent practice of programming problems, wi
 * Clean and Readable Implementations
 
 ---
+## Key Concepts Practiced
+
+* Digit Extraction (`%10`, `//10`)
+* Factor Pair Optimization (`√n`)
+* Prime Number Techniques
+* Euclidean Algorithm (GCD/LCM)
+* Two-Pointer Technique (reversal, palindrome checks)
+* Hashing / Frequency Maps
+* Recursion Fundamentals
+* Pattern Recognition
+* Complexity Analysis
 
 ## Structure
 
@@ -108,17 +119,7 @@ The objective is not only to solve problems but also to understand *why* a solut
 
 ---
 
-## Key Concepts Practiced
 
-* Digit Extraction (`%10`, `//10`)
-* Factor Pair Optimization (`√n`)
-* Prime Number Techniques
-* Euclidean Algorithm (GCD/LCM)
-* Two-Pointer Technique (reversal, palindrome checks)
-* Hashing / Frequency Maps
-* Recursion Fundamentals
-* Pattern Recognition
-* Complexity Analysis
 
 ---
 
