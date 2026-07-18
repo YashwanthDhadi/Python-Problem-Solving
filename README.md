@@ -119,11 +119,3 @@ The objective is not only to solve problems but also to understand *why* a solut
 ---
 
 
-
----
-
-## Goal
-
-To strengthen Python programming fundamentals and build a solid foundation in problem solving, data structures, algorithms, aptitude coding, and technical interview preparation.
-
-This repository serves as a personal learning journey and a continuously growing collection of optimized solutions.
